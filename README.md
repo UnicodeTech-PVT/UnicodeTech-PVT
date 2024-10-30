@@ -25,8 +25,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unicodetech-pvt&show_icons=true&locale=en&layout=compact" alt="unicodetech-pvt" />
-</p>
-<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=unicodetech-pvt&show_icons=true&locale=en" alt="unicodetech-pvt" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=unicodetech-pvt&" alt="unicodetech-pvt" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unicodetech-pvt&" alt="unicodetech-pvt" />
 </p>
+
