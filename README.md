@@ -12,7 +12,7 @@
 <h1> </h1>
 <h1 align="center">Our Expertise</h1>
 <a href="https://unicodetech.com/">
-    <img align="center" src="https://github.com/user-attachments/assets/e610406f-ad98-4c77-b473-6a33debf4887" alt="services">
+    <img align="center" src="https://github.com/user-attachments/assets/cfc1fd27-96a7-43f5-9d94-4b4e92e371a7" alt="services">
 </a>
 <a href="https://unicodetech.com/">
    <img align="center" src="https://github.com/user-attachments/assets/e610406f-ad98-4c77-b473-6a33debf4887" alt="services">
