@@ -36,7 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UnicodeTech-PVT&theme=white&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UnicodeTech-PVT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UnicodeTech-PVT&theme=radical&no-frame=false&no-bg=true&margin-w=3&column=9)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UnicodeTech-PVT&limit=5&theme=dark&combine_all_yearly_contributions=true)
