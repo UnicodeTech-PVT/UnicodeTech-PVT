@@ -32,7 +32,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnicodeTech-PVT&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnicodeTech-PVT&theme=white&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnicodeTech-PVT&show_icons=true&theme=white&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=300)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UnicodeTech-PVT&theme=white&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
